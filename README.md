@@ -29,3 +29,4 @@
 
 # 微信公众号
 
+<img width="1920" height="480" alt="公众号二维码-文档嵌入" src="https://github.com/user-attachments/assets/8615049d-c60a-4c80-8d9c-d4dbd8f681a9" />
