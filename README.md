@@ -1,11 +1,9 @@
 # JavaJourney-docs
 
-[![掘金](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-%E6%8E%98%E9%87%91-%231E80FF?logo=juejin)
-](https://juejin.cn/user/729731453429159)
-![Static Badge](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen?logo=wechat)
+[![掘金](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-%E6%8E%98%E9%87%91-%231E80FF?logo=juejin)](https://juejin.cn/user/729731453429159)
+[![公众号](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen?logo=wechat)](https://github.com/user-attachments/assets/8615049d-c60a-4c80-8d9c-d4dbd8f681a9)
 [![Static Badge](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-%E7%9F%A5%E4%B9%8E-%230084FF?logo=zhihu)](https://www.zhihu.com/people/iweidujiang)
-[![CSDN](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-CSDN-%23FF0000?logo=csdn)
-](https://blog.csdn.net/iweidujiang)
+[![CSDN](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-CSDN-%23FF0000?logo=csdn)](https://blog.csdn.net/iweidujiang)
 
 ## JVM
 
