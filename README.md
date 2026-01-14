@@ -56,6 +56,29 @@
 
 - [**Vue项目初次访问慢的一种解决思路**](https://mp.weixin.qq.com/s/xrFB0HH2ObruFbT4yCEzWA)
 
+# 🚀 交个朋友，保持联系！
+我的技术思考和实践，统一沉淀在这些地方：
+
+🌍 微信公众号：「苏渡苇」
+
+推送最稳定，适合深度阅读
+
+⭐️ 掘金：「苏渡苇」
+
+[https://juejin.cn/user/729731453429159](https://juejin.cn/user/729731453429159)
+
+💡 知乎：「苏渡苇」
+
+[https://www.zhihu.com/people/iweidujiang](https://www.zhihu.com/people/iweidujiang)
+
+📘 CSDN：「苏渡苇」
+
+[https://blog.csdn.net/iweidujiang](https://blog.csdn.net/iweidujiang)
+
+🐙 GitHub：[https://github.com/iweidujiang](https://github.com/iweidujiang)
+
+所有代码的源头，包括 Spring Insight 开源项目，感谢 Star ⭐ 
+
 # 微信公众号
 
 <img width="595" height="595" alt="wechat" src="https://github.com/user-attachments/assets/ad10217e-7b93-4d6b-a9b2-cb73d7cd7835" />
