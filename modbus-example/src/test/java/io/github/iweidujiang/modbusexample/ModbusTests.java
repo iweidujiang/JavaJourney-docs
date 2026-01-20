@@ -1,10 +1,7 @@
 package io.github.iweidujiang.modbusexample;
 
 import com.ghgande.j2mod.modbus.io.ModbusTCPTransaction;
-import com.ghgande.j2mod.modbus.msg.ReadMultipleRegistersRequest;
-import com.ghgande.j2mod.modbus.msg.ReadMultipleRegistersResponse;
-import com.ghgande.j2mod.modbus.msg.WriteSingleRegisterRequest;
-import com.ghgande.j2mod.modbus.msg.WriteSingleRegisterResponse;
+import com.ghgande.j2mod.modbus.msg.*;
 import com.ghgande.j2mod.modbus.net.TCPMasterConnection;
 import com.ghgande.j2mod.modbus.procimg.SimpleRegister;
 import lombok.extern.slf4j.Slf4j;
@@ -84,6 +81,38 @@ public class ModbusTests {
             conn.close();
         } catch (Exception e) {
             log.error("写入失败: {}", e.getMessage(), e);
+        }
+    }
+
+    /**
+     * 读 线圈 状态
+     */
+    @Test
+    void test_readCoils() {
+        try {
+            TCPMasterConnection conn = new TCPMasterConnection(InetAddress.getByName("127.0.0.1"));
+            conn.setPort(502);
+            conn.connect();
+
+
+            // 正确！使用 ReadCoilsRequest
+            ReadCoilsRequest req = new ReadCoilsRequest(0, 1); // 00001 → 0
+            req.setUnitID(1); // 从站ID=1
+
+            ModbusTCPTransaction trans = new ModbusTCPTransaction(conn);
+            trans.setRequest(req);
+            trans.execute();
+
+            ReadCoilsResponse res = (ReadCoilsResponse) trans.getResponse();
+            boolean isRunning = res.getCoilStatus(0);
+
+            System.out.println("isRunning: " + isRunning);
+
+            Thread.sleep(5000);
+            conn.close();
+        } catch (Exception e) {
+            System.err.println("读取失败: " + e.getMessage());
+            log.error(e.getMessage());
         }
     }
 }
