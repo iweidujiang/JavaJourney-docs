@@ -5,6 +5,20 @@
 [![知乎](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-%E7%9F%A5%E4%B9%8E-%230084FF?logo=zhihu)](https://www.zhihu.com/people/iweidujiang)
 [![CSDN](https://img.shields.io/badge/%E8%8B%8F%E6%B8%A1%E8%8B%87-CSDN-%23FF0000?logo=csdn)](https://blog.csdn.net/iweidujiang)
 
+## Java x 工业智能
+
+1. [从零开始学 Modbus：用 Java 零距离体验工业通信！-搞懂寄存器、协议地址、RTU vs TCP，再动手读写，一篇全掌握！](https://mp.weixin.qq.com/s/OjTlEyptimqN44HlYzsMPA) ✅
+2. [Modbus 地址总搞混？别再死记 40001=0！设计一个 Java 工具类彻底理清](https://mp.weixin.qq.com/s/sDzzosuAHpLYfB2wQ8VgEw)✅
+3. [Modbus over Serial：用 Java 读取 RS485 设备（真实场景 + jSerialComm 实战）](https://mp.weixin.qq.com/s/gNF-oyGKco8UqsDGr653zQ)✅
+4. [从 Modbus 到 MQTT：用 Spring Boot 构建工业数据网关](https://mp.weixin.qq.com/s/se4fZzEEIfACwJGGOCac6Q)✅
+5. [用 Spring Boot 项目给工厂装“遥控器”：一行 API 控制现场设备(Modbus协议)！](https://mp.weixin.qq.com/s/JZMN1MCIVhhoe9K94fwlaA)✅
+6. [多品牌 PLC 混合采集？用 Java 构建统一接入层，一套代码通吃全场！](https://mp.weixin.qq.com/s/Sm61DBU_9U_G0THZ1i91Aw)✅
+7. [Java + Redis + MySQL：工业时序数据缓存与持久化实战（适配高频采集场景）](https://mp.weixin.qq.com/s/wg6X1k2RPdsyNNy6MjfHFw)✅
+8. [轻量化AI落地：Java + Spring Boot 实现设备异常预判](https://mp.weixin.qq.com/s/dbmyeu_Tzm0qbqf3S-LwZg)✅
+9. [让数据“活”起来！用 Java（Spring Boot） + Vue 3 打造工业监控大屏](https://mp.weixin.qq.com/s/83Up-pGcb4uhzEsLAmatfQ)✅
+10. 部署工业监控大屏项目——Docker 与 Kubernetes 双方案实战
+11. SpringBoot+Vue打造数字孪生：温湿度环境的智能仿真
+
 ## 设计模式
 
 - [**【设计模式】通过一个简单的案例理解-访问者模式（Visitor Pattern）**](https://mp.weixin.qq.com/s/kGXIm2WjiY4BJbma_60Rjw)
